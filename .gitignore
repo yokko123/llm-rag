@@ -10,7 +10,7 @@
 *.log
 
 #Ignore pdf files
-*.pdf
+/Users/mdsazidurrahman/llm-rag/IST_UL_MSc_Thesis.pdf
 
 # Ignore package files
 *.jar
